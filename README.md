@@ -1,7 +1,7 @@
 # AI_Quant_Investar_Kiwoom_API
 > anaconda 4.10 - 34bit  
 > python 3.7 
-
+> VSCode
 
  ### SETTING  
  #### 1. anaconda 설치
@@ -19,4 +19,10 @@
     conda create -n py37_32 python=3.7 anaconda       //python 3.7로 py37_32의 가상환경 생성
     activate py37_32                                  //py37_32(가상환경이름) 활성화 
     ~~~
-    
+  - VSCode에서 anaconda py37_32 가상환경 연결 
+   ~~~
+   Ctrl + Shift + p
+   Python: Select Interpreter 검색, 엔터
+   실행가능한 Python.exe 리스트에서 원하는 python 선택
+   마우스 오른클릭 Run python file in terminal
+   ~~~
