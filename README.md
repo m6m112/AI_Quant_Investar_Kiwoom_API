@@ -1,6 +1,6 @@
 # AI_Quant_Investar_Kiwoom_API
 > anaconda 4.10 - 34bit  
-> python 3.7 
+> python 3.7  
 > VSCode
 
  ### SETTING  
