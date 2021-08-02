@@ -1,6 +1,7 @@
 # AI_Quant_Investar_Kiwoom_API
 > anaconda 4.10 - 34bit  
 > python 3.7  
+> PyQt5  #GUI 개발 툴 제공 
 > VSCode
 
  ### SETTING  
