@@ -1,6 +1,6 @@
 # AI_Quant_Investar
->> anaconda 4.10 - 34bit
->> python 3.7 
+> anaconda 4.10 - 34bit  
+> python 3.7 
 
 
  ### 초기 세팅 
