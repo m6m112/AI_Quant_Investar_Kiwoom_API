@@ -3,8 +3,9 @@
 > python 3.7 
 
 
- ### 초기 세팅 
- 1. anaconda 설치 
+ ### SETTING  
+ #### 1. anaconda 설치
+
   - 32bit 가상환경 (키움 API가 32bit에 최적화, 64bit 사용 시 알수없는 에러 발생 가능성 있음)
   - Conda 환경변수 등록 
     ~~~
