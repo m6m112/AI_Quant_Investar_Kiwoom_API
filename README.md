@@ -2,6 +2,7 @@
 > anaconda 4.10 - 34bit  
 > python 3.7  
 > PyQt5  #GUI 개발 툴 제공  
+> lxml 4.6.0  #최신 버전이 import가 안되서 다운그레이드 함 
 > VSCode
 
  ### SETTING  
@@ -27,3 +28,8 @@
    실행가능한 Python.exe 리스트에서 원하는 python 선택
    마우스 오른클릭 Run python file in terminal
    ~~~
+
+
+## MODEL
+### DATA MODEL
+![KakaoTalk_20210820_204734348](https://user-images.githubusercontent.com/55786817/130228681-20764318-4496-490f-8cb5-19154ef0d874.png)
